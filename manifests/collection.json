@@ -1,0 +1,13 @@
+{
+  "id" : "https://lheiligensetzer.github.io/Gutenberg/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in lheiligensetzer/Gutenberg project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lheiligensetzer.github.io/Gutenberg/manifests/https___example.org_0e01ccb7-9801-48f0-a6ec-0a720d84b667.json",
+    "label" : "Biblia"
+  } ]
+}
